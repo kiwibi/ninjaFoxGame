@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-NinjaFoxGame-5438.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\NinjaFoxGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\NinjaFoxGame.cpp.obj"
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\SplitScreenComtroller.cpp.obj"
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\NinjaFoxGame.init.gen.cpp.obj"
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\SplitScreenComtroller.gen.cpp.obj"
+"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\Default.rc2.res"
+/OUT:"C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\UE4Editor-NinjaFoxGame-5438.lib"
+/INCLUDE:IMPLEMENT_MODULE_NinjaFoxGame
