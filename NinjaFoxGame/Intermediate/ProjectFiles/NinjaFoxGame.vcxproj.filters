@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\NinjaFoxGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B7E4A940-363D-4CB9-BEA9-2AFD0FE4F00F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NinjaFoxGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\NinjaFoxGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5F8ACFA9-64FD-40D7-8A13-CDCB62C1757B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\NinjaFoxGame">
+      <UniqueIdentifier>{1656F17B-818E-484E-9C89-3F42910444DC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\NinjaFoxGame\NinjaFoxGame.Build.cs">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\NinjaFoxGame\NinjaFoxGame.cpp">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NinjaFoxGame\NinjaFoxGame.h">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NinjaFoxGame\SplitScreenComtroller.cpp">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NinjaFoxGame\SplitScreenComtroller.h">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\NinjaFoxGame\SplitScreenController.cpp">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\NinjaFoxGame\SplitScreenController.h">
+      <Filter>Source\NinjaFoxGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
