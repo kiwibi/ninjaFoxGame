@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"C:\\projects\\unreal\\ninjaFoxGame\\ninjaFoxGame\\NinjaFoxGame\\Source\\NinjaFoxGame\\NinjaFoxGame.Build.cs",
-		"C:\\projects\\unreal\\ninjaFoxGame\\ninjaFoxGame\\NinjaFoxGame\\Source\\NinjaFoxGame.Target.cs",
-		"C:\\projects\\unreal\\ninjaFoxGame\\ninjaFoxGame\\NinjaFoxGame\\Source\\NinjaFoxGameEditor.Target.cs"
-	],
-	"EngineVersion": "4.24.3"
-}

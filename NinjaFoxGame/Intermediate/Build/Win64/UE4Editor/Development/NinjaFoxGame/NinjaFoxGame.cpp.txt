@@ -1,2 +1,0 @@
-C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Intermediate\Build\Win64\UE4Editor\Development\NinjaFoxGame\Definitions.NinjaFoxGame.h
-C:\projects\unreal\ninjaFoxGame\ninjaFoxGame\NinjaFoxGame\Source\NinjaFoxGame\NinjaFoxGame.h
